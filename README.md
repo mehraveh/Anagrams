@@ -7,7 +7,7 @@ you choose a dictionary and project will find find anagrams of the word in that 
 
 
 
-### Installing
+## Installing
 
 you just need to install python 3 for this project because of supporting persion ascii code
 and install pip3 in ubuntu :
